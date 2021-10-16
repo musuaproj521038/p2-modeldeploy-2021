@@ -20,6 +20,7 @@ pip install -r requirements.txt
 
 3.) Run the first four code blocks.
 On the fourth block uncomment the `2nd - 3rd` line and comment out the `5th - 6th` line to host your model online.
+
 Leave the fourth block as is if you want to host locally. Note that you need Docker installed to run the local version.
 
 ### `commonreadaility-generate-model.ipynb`
